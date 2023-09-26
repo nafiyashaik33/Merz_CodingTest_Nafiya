@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="Shipment Status" if:true={externalData}>
+        <div class="slds-p-around_medium">
+            <p>Tracking Number: {trackingNumber}</p>
+            <p>Shipment Status: {externalData}</p>
+        </div>
+    </lightning-card>
+    <template if:false={externalData}>
+        <p>Loading...</p>
+    </template>
+</template>
+
