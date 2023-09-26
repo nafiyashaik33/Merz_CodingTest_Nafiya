@@ -44,4 +44,3 @@ The `HttpProxyService` Apex class acts as an intermediary for making HTTP callou
 - Nafiya Shaik
 
 
-![image](https://github.com/nafiyashaik33/Merz_CodingTest_Nafiya/assets/146040260/da4cac29-fc45-40d8-9bbb-ed11e33d69be)
